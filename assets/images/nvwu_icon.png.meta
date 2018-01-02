@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "13c10a2c-9093-4ff1-84e1-00fa8981ca77",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "nvwu_icon": {
+      "ver": "1.0.3",
+      "uuid": "6da004df-50b0-4909-8afd-7b20db3cc71c",
+      "rawTextureUuid": "13c10a2c-9093-4ff1-84e1-00fa8981ca77",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 65,
+      "height": 28,
+      "rawWidth": 65,
+      "rawHeight": 28,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "33f636b7-56ae-4f35-884f-44293df885e0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "werewolf_kill_game_circle@3x": {
+      "ver": "1.0.3",
+      "uuid": "918c64aa-7c4c-41ea-af4b-b904850b3185",
+      "rawTextureUuid": "33f636b7-56ae-4f35-884f-44293df885e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 78,
+      "height": 78,
+      "rawWidth": 78,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

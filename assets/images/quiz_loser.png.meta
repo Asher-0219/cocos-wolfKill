@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6467633f-6ba4-4116-8bb8-8b1aea8d2fd9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "quiz_loser": {
+      "ver": "1.0.3",
+      "uuid": "0fa8ce33-a0b7-4aef-ba49-57bd3e2ada29",
+      "rawTextureUuid": "6467633f-6ba4-4116-8bb8-8b1aea8d2fd9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 732,
+      "height": 537,
+      "rawWidth": 732,
+      "rawHeight": 537,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "police_10",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 2,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 1,
+          "value": 255
+        }
+      ],
+      "width": [
+        {
+          "frame": 0,
+          "value": 36
+        },
+        {
+          "frame": 1,
+          "value": 297
+        },
+        {
+          "frame": 2,
+          "value": 28
+        }
+      ],
+      "height": [
+        {
+          "frame": 0,
+          "value": 33
+        },
+        {
+          "frame": 1,
+          "value": 211
+        },
+        {
+          "frame": 2,
+          "value": 20
+        }
+      ],
+      "x": [
+        {
+          "frame": 1,
+          "value": 0
+        },
+        {
+          "frame": 2,
+          "value": 248.9
+        }
+      ],
+      "y": [
+        {
+          "frame": 1,
+          "value": 0
+        },
+        {
+          "frame": 2,
+          "value": -59.5
+        }
+      ]
+    }
+  },
+  "events": []
+}

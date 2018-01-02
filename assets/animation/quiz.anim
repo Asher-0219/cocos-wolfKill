@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "quiz",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 658
+        },
+        {
+          "frame": 0.5,
+          "value": -39
+        },
+        {
+          "frame": 0.7,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

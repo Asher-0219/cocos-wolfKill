@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "85aa4f21-5712-428b-8832-a1e507fc2a29",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "wolf_kill_game_circle@2x": {
+      "ver": "1.0.3",
+      "uuid": "29e3b96c-7f69-45f9-a9d2-9b9403af23a8",
+      "rawTextureUuid": "85aa4f21-5712-428b-8832-a1e507fc2a29",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 34,
+      "height": 34,
+      "rawWidth": 34,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "32688d93-d618-4640-b0ab-f2ac5dd2244f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "werewolf_kill_gift@2x": {
+      "ver": "1.0.3",
+      "uuid": "c00f4e39-462e-4b07-9b4e-6d9e3aad0d99",
+      "rawTextureUuid": "32688d93-d618-4640-b0ab-f2ac5dd2244f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 82,
+      "height": 82,
+      "rawWidth": 82,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

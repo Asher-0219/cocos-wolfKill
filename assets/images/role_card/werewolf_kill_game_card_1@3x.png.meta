@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "da877297-18f9-47a3-a04c-a9ef58a1b024",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "werewolf_kill_game_card_1@3x": {
+      "ver": "1.0.3",
+      "uuid": "60012f76-c983-4ceb-99ea-c75494ec71ab",
+      "rawTextureUuid": "da877297-18f9-47a3-a04c-a9ef58a1b024",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 290,
+      "height": 401,
+      "rawWidth": 290,
+      "rawHeight": 401,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
